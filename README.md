@@ -1,16 +1,19 @@
-## Hi there 👋
+# About Me
 
-<!--
-**6610685171/6610685171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello
 
-Here are some ideas to get you started:
+About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![my pic](IMG_6149.JPG)
+
+Hello, my name is Thanawan Phongphaew, my nickname is Meen.
+
+My student ID is 6610685171.
+
+I'm a Computer Engineering student at Thammasat University.
+
+I love listening to music and watching a movie on the freetime and right now I'm also interested in swimming.</p>
+
+Phone : 064-128-6484
+
+Email : thanawan.pho@dome.tu.ac.th
